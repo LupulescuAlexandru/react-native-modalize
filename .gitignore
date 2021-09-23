@@ -11,5 +11,6 @@ yarn.lock
 # misc
 #
 .expo/
+.idea/
 .vscode/
 .watchmanconfig
